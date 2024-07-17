@@ -10,3 +10,6 @@ OpenAPI, Streamlit, LangChain
 - streamlit-extras
 - altair<5
 
+<p align="center">
+    <img src="UI.png">
+</p>
