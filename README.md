@@ -1,6 +1,7 @@
-# LangChain-PDFChatApp
-Build ChatGPT 3.5-turbo using OpenAPI 
-### Requirements
+# *LangChain-PDFChatApp*
+Build ChatGPT Assist PDF using gpt-3.5-turbo
+OpenAPI, Streamlit, LangChain
+### *Requirements*
 langchain==0.0.154
 PyPDF2==3.0.1
 python-dotenv==1.0.0
